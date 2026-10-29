@@ -2,9 +2,9 @@
   <!-- Header Banner (Wave gradient with crisp white text) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Hello,%20I'm%20Quang%20Huy!&fontSize=50&fontAlignY=40&desc=Backend%20Developer%20Student%20@%20UIT&descAlignY=60&descAlign=50" width="100%" />
 
-  <!-- Animated Typing Text -->
+  <!-- Animated Typing Text (Fixed width to prevent text clipping) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Crafting+Scalable+Backend+Systems;Building+Robust+APIs+%26+Microservices;Java+%E2%80%A2+NestJS+%E2%80%A2+Docker+%E2%80%A2+Cloud" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Crafting+Scalable+Backend+Systems;Building+Robust+APIs+%26+Microservices;Java+%E2%80%A2+NestJS+%E2%80%A2+Docker+%E2%80%A2+Cloud" alt="Typing SVG" />
   </a>
   <br><br>
   <!-- Social Badges -->
@@ -16,8 +16,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phamhuy273&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" height="192px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phamhuy273&theme=tokyonight&hide_border=true&timezone=Asia/Ho_Chi_Minh" alt="GitHub Streak" height="192px">
+  <!-- Ultra-reliable Stats Card + Streak Stats (Tokyo Night theme) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phamhuy273&theme=tokyonight" alt="GitHub Stats" height="195px">
+  <img src="https://streak-stats.demolab.com?user=phamhuy273&theme=tokyonight&hide_border=true&timezone=Asia/Ho_Chi_Minh" alt="GitHub Streak" height="195px">
 </div>
 
 ---
