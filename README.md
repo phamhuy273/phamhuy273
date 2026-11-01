@@ -17,8 +17,8 @@
 
 <div align="center">
   <!-- Ultra-reliable Stats Card + Streak Stats (Tokyo Night theme) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phamhuy273&theme=tokyonight" alt="GitHub Stats" height="195px">
-  <img src="https://streak-stats.demolab.com?user=phamhuy273&theme=tokyonight&hide_border=true&timezone=Asia/Ho_Chi_Minh" alt="GitHub Streak" height="195px">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phamhuy273&theme=tokyonight&v=2" alt="GitHub Stats" height="195px">
+  <img src="https://streak-stats.demolab.com?user=phamhuy273&theme=tokyonight&hide_border=true&timezone=Asia/Ho_Chi_Minh&v=2" alt="GitHub Streak" height="195px">
 </div>
 
 ---
